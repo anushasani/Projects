@@ -1,0 +1,32 @@
+.buttonAdd {
+
+    margin-top: .5rem;
+    width: 5rem;
+    height: 2rem;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: azure;
+    border: 1px solid rgb(104, 226, 226);
+    color: cornflowerblue;
+    transition: 1s;
+
+}
+
+.buttonAdd:hover {
+    color: azure;
+    background-color: cornflowerblue;
+}
+
+.progressBarList {
+
+    width: 50rem;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    border: 2px solid grey;
+}
+
+.AnimatedList {
+    background-color: grey;
+    height: 2rem;
+}

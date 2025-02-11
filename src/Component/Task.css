@@ -1,0 +1,24 @@
+.addButton {
+    width: 6rem;
+    height: 3rem;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+
+.progressBar {
+    margin-top: 5rem;
+    margin-left: 30rem;
+    width: 50rem;
+    height: 4rem;
+    border: 1px Solid black;
+    position: relative;
+    background-color: chartreuse;
+}
+
+
+.animatedBar {
+    position: absolute;
+    height: 4rem;
+    background-color: rgb(227, 179, 121);
+}
